@@ -123,6 +123,10 @@ stripe.public.key=YOUR_STRIPE_PUBLIC_KEY
 
 ---
 
+
+
+---
+
 ## 📸 Screenshots
 
 > Add screenshots of your project here
@@ -131,10 +135,10 @@ stripe.public.key=YOUR_STRIPE_PUBLIC_KEY
 
 ## 👨‍💻 Developers
 
-| Developer | Links |
-|-----------|-------|
-| **Vardhan Adheli** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vardhanadheli/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/vardhan__1506/) |
-| **Ashutosh Kumar** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-kumar-329699259) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/axhutosh_/) |
+| Developer | LinkedIn | Instagram |
+|-----------|----------|-----------|
+| **Vardhan Adheli** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vardhanadheli/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vardhanadheli_/) |
+| **Ashutosh Kumar** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-329699259/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/axhutosh_/) |
 
 ---
 
