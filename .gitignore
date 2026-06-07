@@ -1,0 +1,8 @@
+src/main/resources/config.properties
+.classpath
+.project
+.settings/
+target/
+*.log
+.DS_Store
+Thumbs.db
