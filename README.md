@@ -83,3 +83,66 @@ git clone https://github.com/vardhan1564/IRCTC_Clone.git
 CREATE DATABASE irctc;
 ```
 Import the SQL schema file from:
+
+
+**3. Configure API Keys**
+
+Create file `src/main/resources/config.properties`:
+```properties
+# Database
+db.url=jdbc:mysql://localhost:3306/irctc
+db.username=root
+db.password=YOUR_PASSWORD
+
+# Email
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.sender.email=YOUR_EMAIL
+mail.sender.password=YOUR_APP_PASSWORD
+
+# Gemini AI
+gemini.api.key=YOUR_GEMINI_KEY
+
+# RapidAPI
+rapidapi.key=YOUR_RAPIDAPI_KEY
+rapidapi.host=YOUR_RAPIDAPI_HOST
+
+# Stripe
+stripe.secret.key=YOUR_STRIPE_SECRET_KEY
+stripe.public.key=YOUR_STRIPE_PUBLIC_KEY
+```
+
+**4. Build & Run**
+- Import project in Eclipse as Maven project
+- Add to Tomcat server
+- Run on server
+
+**5. Access the application**
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots of your project here
+
+---
+
+## 👨‍💻 Developers
+
+| Developer | Links |
+|-----------|-------|
+| **Vardhan Adheli** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vardhanadheli/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/vardhan__1506/) |
+| **Ashutosh Kumar** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-kumar-329699259) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/axhutosh_/) |
+
+---
+
+## 📝 License
+
+This project is for **educational purposes only**.
+All rights reserved © 2025 Vardhan Adheli & Ashutosh Kumar
+
+---
+
+⭐ If you found this helpful, please give it a star!
