@@ -127,11 +127,7 @@ stripe.public.key=YOUR_STRIPE_PUBLIC_KEY
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of your project here
-
----
 
 ## 👨‍💻 Developers
 
